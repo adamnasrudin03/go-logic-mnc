@@ -1,6 +1,7 @@
 # Logic Test
-
 ![No.2](2.png)
+
+
 Jawaban :
 ```sh
    go run kasir.go
