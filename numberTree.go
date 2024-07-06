@@ -39,6 +39,10 @@ func main() {
 
 	fmt.Scan(&input)
 	input = strings.ReplaceAll(input, " ", "") // remove space(input)
+	if len(input) > 0 || len(input) <= 4096 {
+		fmt.Println("False")
+		return
+	}
 
 	// check valid input and count char
 	countOpenChar := map[string]int{}
