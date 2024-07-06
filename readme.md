@@ -22,7 +22,15 @@ Jawaban :
 ```sh
    go run numberTree.go
 ```
+<br/><br/>
 
+![No.4](4.png)
+![No.4b](4b.png)
+
+Jawaban :
+```sh
+   go run numberFour.go
+```
 <br/><br/>
 <a href="https://www.adamnasrudin.com" target="_blank">
 <img 
