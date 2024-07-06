@@ -4,7 +4,7 @@
 
 Jawaban :
 ```sh
-   go run kasir.go
+   go run numberTwo.go
 ```
 
 
