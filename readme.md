@@ -1,6 +1,13 @@
 # Logic Test
-![No.2](2.png)
+![No.1](1.png)
 
+Jawaban :
+```sh
+   go run numberOne.go
+```
+<br/><br/>
+
+![No.2](2.png)
 
 Jawaban :
 ```sh
