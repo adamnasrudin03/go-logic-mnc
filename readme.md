@@ -14,6 +14,14 @@ Jawaban :
    go run numberTwo.go
 ```
 
+<br/><br/>
+
+![No.3](3.png)
+
+Jawaban :
+```sh
+   go run numberTree.go
+```
 
 <br/><br/>
 <a href="https://www.adamnasrudin.com" target="_blank">
